@@ -1,0 +1,2 @@
+Install Framer Motion :- `npm i motion`
+import {motion} from "motion/react"
